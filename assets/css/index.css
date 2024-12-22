@@ -1,3 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+
+This is a development CSS file that is compiled to a minified
+production stylesheet in assets/built/screen.css using: npm run dev
+
+...
+
 /*
 
 This is a development CSS file that is compiled to a minified
